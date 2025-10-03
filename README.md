@@ -68,6 +68,3 @@ The dashboard includes charts like these (saved in `.png` format in the project 
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
